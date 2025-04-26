@@ -2,306 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>undefined_Chen&#39;s blog</title>
-        <link>https://undefined-chen.asia/en/</link>
+        <link>http://localhost:1313/en/</link>
         <description>Recent content on undefined_Chen&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>undefined_Chen</copyright><atom:link href="https://undefined-chen.asia/en/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>How to Fly in China&#39;s Airspace?</title>
-        <link>https://undefined-chen.asia/en/p/how-to-fly-in-chinas-airspace/</link>
-        <pubDate>Sat, 14 Dec 2024 18:40:39 +0800</pubDate>
-        
-        <guid>https://undefined-chen.asia/en/p/how-to-fly-in-chinas-airspace/</guid>
-        <description>&lt;img src="https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241129/241129-01.webp" alt="Featured image of post How to Fly in China&#39;s Airspace?" /&gt;&lt;blockquote&gt;
-&lt;p&gt;Article 2: The airspace above the land and territorial waters of the People’s Republic of China is the airspace of the People’s Republic of China. The People’s Republic of China has complete and exclusive sovereignty over its airspace.&lt;/p&gt;
-&lt;p&gt;——&lt;em&gt;The Civil Aviation Law of the People’s Republic of China&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Due to the policy of one country, two systems, and other historical legacy issues, there are four civil aviation administration departments in China. They are the Civil Aviation Administration of China &lt;em&gt;(China Mainland)&lt;/em&gt;, Civil Aviation Department &lt;em&gt;(Hong Kong)&lt;/em&gt;, Civil Aviation Authority &lt;em&gt;(Macau)&lt;/em&gt;, and Civil Aviation Administration, MOTC &lt;em&gt;(Taiwan)&lt;/em&gt;. Each controls some parts of the airspace in China.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Civil Aviation Administration of China:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ZBPE Beijing FIR&lt;/li&gt;
-&lt;li&gt;ZGZU Guangzhou FIR&lt;/li&gt;
-&lt;li&gt;ZHWH Wuhan FIR&lt;/li&gt;
-&lt;li&gt;ZJSA Sanya FIR&lt;/li&gt;
-&lt;li&gt;ZLHW Lanzhou FIR&lt;/li&gt;
-&lt;li&gt;ZPKM Kunming FIR&lt;/li&gt;
-&lt;li&gt;ZSHA Shanghai FIR&lt;/li&gt;
-&lt;li&gt;ZWUQ Urumqi FIR&lt;/li&gt;
-&lt;li&gt;ZYSH Shenyang FIR&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Civil Aviation Department:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;VHHK Hong Kong FIR&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Civil Aviation Administration, MOTC:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;RCAA Taipei FIR&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241129/241129-01.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;FIRs in China&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;p&gt;In this article, I&amp;rsquo;ll only talk about how to fly in mainland space because flying in Hong Kong and Taiwan is basically the same as flying in most of the other airspaces (they are not completely the same but there&amp;rsquo;s also not too much difference). And by &amp;ldquo;mainland space&amp;rdquo;, it means ZBPE, ZGZU, ZHWH, ZJSA (intra-island sector), ZLHW, ZPKM, ZSHA, ZWUQ, and ZYSH.&lt;/p&gt;
-&lt;h2 id=&#34;china-rvsm&#34;&gt;China RVSM
-&lt;/h2&gt;&lt;p&gt;I assume you already know what exactly the RVSM is, if you don&amp;rsquo;t, check &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Reduced_vertical_separation_minima&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;this link&lt;/a&gt;
-    
-    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
-        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
-        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
-        fill=&#34;currentColor&#34;&gt;
-    &lt;/svg&gt;&lt;/span&gt;
-
-.&lt;/p&gt;
-&lt;p&gt;In China, Mongolia, North Korea, and Tajikistan (some airspaces in Russia will also use metric units on some occasions, but they mainly use imperial units), the altitude unit is &amp;ldquo;meter&amp;rdquo;. Of course, you can&amp;rsquo;t directly convert them, because if the ATC asks you to climb and maintain 9,800 meters (about 32,152.231 feet), you are not likely to set your autopilot altitude to 32,152 feet, not to mention that 0.231 feet. Therefore there&amp;rsquo;s a convert table made by CAAC, and it&amp;rsquo;s the standard in Annex 2 to &lt;em&gt;the Chicago Convention on International Civil Aviation&lt;/em&gt;, which means you can use the same table when flying in other metric-unit-use airspaces. The table is shown below, and remember to follow “Odd East, Even West” rule.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241129/241129-02.webp&#34; width=&#34;85%&#34;&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;h3 id=&#34;special-cases&#34;&gt;Special cases
-&lt;/h3&gt;&lt;p&gt;If you used the &amp;ldquo;Beijing-Guangzhou Air Corridor&amp;rdquo;, that is airways A461, W37, and W45, the altitude restriction is:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;A461&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Odd North, Even South.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;W37 &amp;amp; W45&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;They are southbound one-way airways; they simply use even altitude.&lt;/p&gt;
-&lt;h3 id=&#34;if-i-cant-adjust-the-altitude-in-100-foot-increments&#34;&gt;&amp;ldquo;If I can&amp;rsquo;t adjust the altitude in 100-foot increments?&amp;rdquo;
-&lt;/h3&gt;&lt;p&gt;Though newer MD-11s are able to set altitude in meters, on the older ones, once your AP altitude is above 10,000 ft, you can only adjust the altitude in 500-foot increments. Therefore, UPS has designed a procedure for this situation:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Climb to 8900m (FL291)&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;Use Level Change Mode or V/S Mode to climb to 29,000ft.&lt;/li&gt;
-&lt;li&gt;Use V/S Mode to climb at the rate of 500ft/min, and select the ALT HOLD function before passing 29,100ft.&lt;/li&gt;
-&lt;li&gt;Set your cruising altitude to FL291 on the F-PLN INIT page on your FMCS, and then press PROF on FCP. FCP might not indicate 29,100ft but numbers like 29,150ft, and 29,097ft are very close to 29,100ft, and that is normal.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;And vice versa, descending is the same.&lt;/p&gt;
-&lt;p&gt;To be continued&amp;hellip;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>[Global Flight]#2 – Flying at the Foot of the Himalayas: Kathmandu to Delhi</title>
-        <link>https://undefined-chen.asia/en/p/global-flight%232-flying-at-the-foot-of-the-himalayas-kathmandu-to-delhi/</link>
-        <pubDate>Sun, 17 Nov 2024 12:00:00 +0800</pubDate>
-        
-        <guid>https://undefined-chen.asia/en/p/global-flight%232-flying-at-the-foot-of-the-himalayas-kathmandu-to-delhi/</guid>
-        <description>&lt;img src="https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-10.webp" alt="Featured image of post [Global Flight]#2 – Flying at the Foot of the Himalayas: Kathmandu to Delhi" /&gt;&lt;p&gt;Welcome back, today we will travel from Kathmandu to Delhi, India. As the third-largest country in Asia, in 2023, India’s population surpassed China’s, becoming the largest in the world. India is not a country of a single ethnicity and culture; it is home to a multitude of ethnic groups, each with its own language and script. There are as many as 22 officially recognized languages in the constitution. According to Wikipedia:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The languages of India are incredibly complex. According to the 2001 census, there are 1,396 identifiable “mother tongues” spoken across India. These 1,396 mother tongues, upon linguistic analysis, can be grouped into additional “languages.” There are 29 languages in India with more than one million speakers and 121 languages with more than 10,000 speakers. These languages primarily belong to two major language families: the Indo-European family’s Indo-Aryan branch and the Dravidian family. In addition, some languages belong to the Tibeto-Burman branch of the Sino-Tibetan family and the Austroasiatic family’s Munda branch, as well as several other isolated languages.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Translated from the Chinese Wikipedia.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/3/3c/Language_region_maps_of_India.svg&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Language region maps of India&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;p style=&#34;font-size: 12px;&#34;&gt;By Filpro - Own work, based on the &#39;Report of the Commissioner for linguistic minorities&#39;, Govt. of India,(July 2012 to June 2013)- NCLM-50th report pdf archive copy at the Wayback Machine, CC BY-SA 4.0*, https://commons.wikimedia.org/w/index.php?curid=51479325&lt;/p&gt;&lt;/center&gt;
-&lt;p&gt;Our destination, Delhi, is the second-largest city in India with a population of 17.65 million. Since the 6th century BCE, Delhi has been inhabited. For most of its history, Delhi has served as the capital for various kingdoms, including the Delhi Sultanate and the Mughal Empire. As a key city on the trade route from North India to the Ganges Plain, Delhi has left behind numerous historical sites and relics. The old city was the capital of the Mughal Empire for a considerable period, and after India’s independence, New Delhi became the federal capital. Since then, Delhi has gradually developed into a metropolis, gathering various ethnic groups from India. The expansion of the city has brought about environmental pollution, traffic congestion, and other issues; since India’s independence, Delhi has rapidly developed, and the income of its residents has increased swiftly. The origin of the name “Delhi” is a matter of debate. In Mongolian, “Delhi” means “world,” and it might have been named by the ruling class during the Mughal Empire period. However, the majority view is that a person named “Dhillu” once ruled this area. Some historians believe that “Dilli” is a corruption of “dehali”; “dehali” in Hindustani means “beginning or starting point,” so “Delhi” is also considered to be associated with the beginning of Indian characteristics, such as the Indus-Ganges Plain. Another theory suggests that the original name of Delhi was “Dhillika” (an ancient Indian vernacular), and the word “dhili” often refers to a location (a directional noun), which gradually evolved into the place name “Dilli.”&lt;/p&gt;
-&lt;p&gt;Returning to Kathmandu, today we will fly on VATSIM as usual, and Zilong Wu will be flying with us.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-01.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Good afternoon Kathmandu!&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-02.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Pushback and start up&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-03.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;See ya!&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;p&gt;The airport in Kathmandu does not have a parallel taxiway as long as the runway, so a “Backtaxi” maneuver is required before takeoff.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-04.webp&#34; width=&#34;85%&#34;&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-05.webp&#34; width=&#34;85%&#34;&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-06.webp&#34; width=&#34;85%&#34;&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-07.webp&#34; width=&#34;85%&#34;&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-08.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;MAN FLEX 52 SRS A/THR BLUE&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-09.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Lift-off&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;p&gt;Due to the high surrounding terrain, after taking off from Kathmandu Airport, one must circle the airport to climb. I was once reported by air traffic control in Infinite Flight for using the wrong runway because of such procedures.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-10.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;早上好加德满都！&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-11.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Himalayas&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;strong&gt;Reenactment of the Suruga Bay Near Mid-Air Collision Incident&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A few minutes later, I unexpectedly disconnected. When I reconnected, all I could hear in the cockpit was the TCAS RA’s “Descend Now!” command. Switching to an external view, I saw:&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-12.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;“Suruga Bay” in the skies above Nepal&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-13.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Descend Now!&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;p&gt;Due to the short flight duration, after this “minor” incident, we entered Indian airspace and prepared for descent. Perhaps due to air pollution caused by the excessive population, or for other reasons, the visibility in the Delhi area at that time was only 4000 meters, and the entire Delhi in the game was covered in a blanket of white.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-14.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Low visibility&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-15.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Entering the fog&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-16.webp&#34; width=&#34;85%&#34;&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-17.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Touchdown&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-18.webp&#34; width=&#34;85%&#34;&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/241117-19.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Shutdown&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;</description>
-        </item>
-        <item>
-        <title>[Global Flight]#1 - Flying over the Roof of the World: Lhasa to Kathmandu</title>
-        <link>https://undefined-chen.asia/en/p/global-flight%231-flying-over-the-roof-of-the-world-lhasa-to-kathmandu/</link>
-        <pubDate>Sat, 12 Oct 2024 22:08:37 +0800</pubDate>
-        
-        <guid>https://undefined-chen.asia/en/p/global-flight%231-flying-over-the-roof-of-the-world-lhasa-to-kathmandu/</guid>
-        <description>&lt;img src="https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-07.webp" alt="Featured image of post [Global Flight]#1 - Flying over the Roof of the World: Lhasa to Kathmandu" /&gt;&lt;h1 id=&#34;write-at-the-front&#34;&gt;Write at the front
-&lt;/h1&gt;&lt;p&gt;Although this blog post is the first in the series, the journey it describes is actually the third one. Why didn’t I write about the previous ones? Because I forgot (bruh).&lt;/p&gt;
-&lt;h1 id=&#34;body-text&#34;&gt;Body text
-&lt;/h1&gt;&lt;p&gt;Today we will take off from Lhasa, leaving China to fly to Kathmandu, the capital of Nepal. The word “Lhasa” means “holy land” or “Buddha’s land” in Tibetan.Lhasa has always been the political, economic, and cultural center of the entire Tibet region, and is also a sacred place for Tibetan Buddhism. It was officially established as a city in 1960 and designated as a national historical and cultural city in 1982.&lt;/p&gt;
-&lt;p&gt;Our destination, Kathmandu, nestled in a valley, serves as the capital of Nepal and is known as the “Paradise in the Mountains” due to its pleasant climate. Kathmandu is one of the world’s oldest continuously inhabited cities and has been the political and cultural hub of Nepal and a focal point for cultural exchange since ancient times, with its establishment dating back to the 2nd century AD. The valley where the city is located has historically been known as the Nepal Mandala, making Kathmandu an important town in the civilization of the Newars at the foothills of the Himalayas.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-01A.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;At Lhasa&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;p&gt;In today’s flight, aside from myself, VATSIM platform user 1840710 will also be participating. The weather in Lhasa was not very good that day; the METAR report indicated rain, but it’s unclear whether it was an issue with the weather data source in MSFS or something else, as Lhasa in the game was under clear skies. Let’s set aside these minor details for now. After completing the pre-flight preparations, we began to push back. The route used that day was &lt;code&gt;RKZ B345 NONIM B345 KIMTI&lt;/code&gt;, departing using the &lt;code&gt;RKZ-10D&lt;/code&gt; procedure.&lt;/p&gt;
-&lt;p&gt;After completing the pre-flight preparations, we pushed back, started the engines, taxied, aligned with the runway, and took off! The thrust from the two V2500 engines propelled the A320 down the runway, beginning to accelerate, and then lifting off the ground.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-02.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;MAN TO/GA SRS A/THR BLUE&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-03.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;V1...Rotate&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;p&gt;Lhasa Gonggar Airport, being a high-plateau airport, has high altitude that leads to thin air and reduced engine thrust due to the lack of oxygen, which in turn increases the takeoff roll distance. Because of this, both runways at Gonggar Airport are as long as 4000 meters. Even though the Takeoff Weight (TOW) was only 50 tons at the time, the takeoff roll still used nearly half of the runway.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-04.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Over the airport&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-05.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Some nameless mountains&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-06.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Qomolangma National Nature Reserve&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-07.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;The world’s highest peak - Mount Everest&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-08.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Leaving Chinese airspace, we switch from metric altitude to imperial altitude&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;p&gt;The flight time for this leg of the journey is only a little over an hour. Leaving Chinese airspace also means that we are about to start our approach to Kathmandu, and it’s time to prepare for the approach. Tribhuvan International Airport is particularly noteworthy for its non-precision approach procedures. The VOR approach for runway 02 requires pilots to start descending at a glideslope angle of 5.31 degrees when 9 nautical miles from the KTM VOR, and then resume the normal glideslope angle of 3 degrees at 3 nautical miles. However, due to the wind direction at the airport today, we can only use runway 20.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/05/bxVHmzAiuN5Jrtl.png&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;The VOR procedure chart for runway 02 at Tribhuvan International Airport&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-09.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Beginning the approach&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-10.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Runway in sight&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-11.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Touchdown&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://raw.githubusercontent.com/undefined-Chen/hugo-img/main/img/241012/241012-12.webp&#34; width=&#34;85%&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Shutdown, end of work!&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;</description>
-        </item>
-        <item>
+        <copyright>undefined_Chen</copyright><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://undefined-chen.asia/en/archives/</link>
+        <link>http://localhost:1313/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/archives/</guid>
+        <guid>http://localhost:1313/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://undefined-chen.asia/en/about/</link>
+        <link>http://localhost:1313/en/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/about/</guid>
+        <guid>http://localhost:1313/en/about/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://undefined-chen.asia/en/links/</link>
+        <link>http://localhost:1313/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/links/</guid>
+        <guid>http://localhost:1313/en/links/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://undefined-chen.asia/en/search/</link>
+        <link>http://localhost:1313/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/search/</guid>
+        <guid>http://localhost:1313/en/search/</guid>
         <description></description>
         </item>
         

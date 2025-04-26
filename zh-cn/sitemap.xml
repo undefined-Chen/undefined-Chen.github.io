@@ -2,153 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://undefined-chen.asia/p/%E7%8E%AF%E7%90%83%E9%A3%9E%E8%A1%8C%232%E5%9C%A8%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E8%84%9A%E9%A3%9E%E8%A1%8C%E5%8A%A0%E5%BE%B7%E6%BB%A1%E9%83%BD-%E5%BE%B7%E9%87%8C/</loc>
-    <lastmod>2024-11-23T23:26:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://undefined-chen.asia/en/p/global-flight%232-flying-at-the-foot-of-the-himalayas-kathmandu-to-delhi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://undefined-chen.asia/p/%E7%8E%AF%E7%90%83%E9%A3%9E%E8%A1%8C%232%E5%9C%A8%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E8%84%9A%E9%A3%9E%E8%A1%8C%E5%8A%A0%E5%BE%B7%E6%BB%A1%E9%83%BD-%E5%BE%B7%E9%87%8C/"
-                />
-  </url><url>
-    <loc>https://undefined-chen.asia/categories/</loc>
-    <lastmod>2024-11-27T22:27:52+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://undefined-chen.asia/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://undefined-chen.asia/categories/"
-                />
-  </url><url>
-    <loc>https://undefined-chen.asia/post/</loc>
-    <lastmod>2024-11-27T22:27:52+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://undefined-chen.asia/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://undefined-chen.asia/post/"
-                />
-  </url><url>
-    <loc>https://undefined-chen.asia/tags/</loc>
-    <lastmod>2024-11-27T22:27:52+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://undefined-chen.asia/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://undefined-chen.asia/tags/"
-                />
-  </url><url>
-    <loc>https://undefined-chen.asia/categories/%E7%8E%AF%E7%90%83%E9%A3%9E%E8%A1%8C/</loc>
-    <lastmod>2024-11-27T22:27:52+08:00</lastmod>
-  </url><url>
-    <loc>https://undefined-chen.asia/tags/%E6%A8%A1%E6%8B%9F%E9%A3%9E%E8%A1%8C/</loc>
-    <lastmod>2024-11-27T22:27:52+08:00</lastmod>
-  </url><url>
-    <loc>https://undefined-chen.asia/p/%E7%8E%AF%E7%90%83%E9%A3%9E%E8%A1%8C%231%E9%A3%9E%E8%B6%8A%E4%B8%96%E7%95%8C%E5%B1%8B%E8%84%8A%E6%8B%89%E8%90%A8-%E5%8A%A0%E5%BE%B7%E6%BB%A1%E9%83%BD/</loc>
-    <lastmod>2024-11-27T22:27:52+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://undefined-chen.asia/en/p/global-flight%231-flying-over-the-roof-of-the-world-lhasa-to-kathmandu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://undefined-chen.asia/p/%E7%8E%AF%E7%90%83%E9%A3%9E%E8%A1%8C%231%E9%A3%9E%E8%B6%8A%E4%B8%96%E7%95%8C%E5%B1%8B%E8%84%8A%E6%8B%89%E8%90%A8-%E5%8A%A0%E5%BE%B7%E6%BB%A1%E9%83%BD/"
-                />
-  </url><url>
-    <loc>https://undefined-chen.asia/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2024-12-14T23:54:55+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://undefined-chen.asia/en/page/"
+                href="http://localhost:1313/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://undefined-chen.asia/page/"
+                href="http://localhost:1313/page/"
                 />
   </url><url>
-    <loc>https://undefined-chen.asia/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2024-11-23T23:33:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://undefined-chen.asia/en/archives/"
+                href="http://localhost:1313/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://undefined-chen.asia/archives/"
+                href="http://localhost:1313/archives/"
                 />
   </url><url>
-    <loc>https://undefined-chen.asia/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-20T16:05:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://undefined-chen.asia/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://undefined-chen.asia/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://undefined-chen.asia/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2024-12-14T23:54:55+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://undefined-chen.asia/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://undefined-chen.asia/%E5%85%B3%E4%BA%8E/"
+                href="http://localhost:1313/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://undefined-chen.asia/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2024-11-22T19:12:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://undefined-chen.asia/en/search/"
+                href="http://localhost:1313/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://undefined-chen.asia/search/"
+                href="http://localhost:1313/search/"
                 />
   </url><url>
-    <loc>https://undefined-chen.asia/%E5%8F%8B%E9%93%BE/</loc>
+    <loc>http://localhost:1313/%E5%8F%8B%E9%93%BE/</loc>
     <lastmod>2024-11-29T18:09:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://undefined-chen.asia/en/links/"
+                href="http://localhost:1313/en/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://undefined-chen.asia/%E5%8F%8B%E9%93%BE/"
+                href="http://localhost:1313/%E5%8F%8B%E9%93%BE/"
                 />
   </url>
 </urlset>

@@ -2,43 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on undefined_Chen&#39;s blog</title>
-        <link>https://undefined-chen.asia/en/tags/</link>
+        <link>http://localhost:1313/en/tags/</link>
         <description>Recent content in Tags on undefined_Chen&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>undefined_Chen</copyright>
-        <lastBuildDate>Sun, 15 Dec 2024 13:09:10 +0800</lastBuildDate><atom:link href="https://undefined-chen.asia/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>China</title>
-        <link>https://undefined-chen.asia/en/tags/china/</link>
-        <pubDate>Sat, 14 Dec 2024 18:40:39 +0800</pubDate>
-        
-        <guid>https://undefined-chen.asia/en/tags/china/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Flying</title>
-        <link>https://undefined-chen.asia/en/tags/flying/</link>
-        <pubDate>Sat, 14 Dec 2024 18:40:39 +0800</pubDate>
-        
-        <guid>https://undefined-chen.asia/en/tags/flying/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tutorial</title>
-        <link>https://undefined-chen.asia/en/tags/tutorial/</link>
-        <pubDate>Sat, 14 Dec 2024 18:40:39 +0800</pubDate>
-        
-        <guid>https://undefined-chen.asia/en/tags/tutorial/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Flight Sim</title>
-        <link>https://undefined-chen.asia/en/tags/flight-sim/</link>
-        <pubDate>Sun, 17 Nov 2024 12:00:00 +0800</pubDate>
-        
-        <guid>https://undefined-chen.asia/en/tags/flight-sim/</guid>
-        <description></description>
-        </item>
-        
+        <copyright>undefined_Chen</copyright><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
