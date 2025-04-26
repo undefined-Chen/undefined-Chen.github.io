@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on undefined_Chen&#39;s blog</title>
-        <link>http://localhost:1313/en/page/</link>
+        <link>https://undefined-chen.asia/en/page/</link>
         <description>Recent content in Pages on undefined_Chen&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>undefined_Chen</copyright>
-        <lastBuildDate>Sat, 14 Dec 2024 23:54:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Dec 2024 23:54:51 +0800</lastBuildDate><atom:link href="https://undefined-chen.asia/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>http://localhost:1313/en/archives/</link>
+        <link>https://undefined-chen.asia/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/archives/</guid>
+        <guid>https://undefined-chen.asia/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>http://localhost:1313/en/about/</link>
+        <link>https://undefined-chen.asia/en/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/about/</guid>
+        <guid>https://undefined-chen.asia/en/about/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:1313/en/links/</link>
+        <link>https://undefined-chen.asia/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/links/</guid>
+        <guid>https://undefined-chen.asia/en/links/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/en/search/</link>
+        <link>https://undefined-chen.asia/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/search/</guid>
+        <guid>https://undefined-chen.asia/en/search/</guid>
         <description></description>
         </item>
         
