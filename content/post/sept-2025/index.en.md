@@ -30,6 +30,8 @@ comment:
   enable: true
 ---
 
+> *Translated from Simplified Chinese.*
+
 So, this blog’s actually been up and running for a while now, but I haven’t posted much here. Seeing all these other bloggers doing their monthly check-ins, I figured maybe that’s a nice way to kick things off for myself.
 
 ## What’s been going on

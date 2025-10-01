@@ -2,17 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>undefined-Chen&#39;s blog</title>
-        <link>http://localhost:1313/en/</link>
+        <link>https://undefined-chen.asia/en/</link>
         <description>Recent content on undefined-Chen&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>undefined_Chen</copyright><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>undefined_Chen</copyright><atom:link href="https://undefined-chen.asia/en/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>September 2025 Recap</title>
-        <link>http://localhost:1313/en/p/september-2025-recap/</link>
+        <link>https://undefined-chen.asia/en/p/september-2025-recap/</link>
         <pubDate>Wed, 01 Oct 2025 14:13:10 +0800</pubDate>
         
-        <guid>http://localhost:1313/en/p/september-2025-recap/</guid>
-        <description>&lt;p&gt;So, this blog’s actually been up and running for a while now, but I haven’t posted much here. Seeing all these other bloggers doing their monthly check-ins, I figured maybe that’s a nice way to kick things off for myself.&lt;/p&gt;
+        <guid>https://undefined-chen.asia/en/p/september-2025-recap/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Translated from Simplified Chinese.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;So, this blog’s actually been up and running for a while now, but I haven’t posted much here. Seeing all these other bloggers doing their monthly check-ins, I figured maybe that’s a nice way to kick things off for myself.&lt;/p&gt;
 &lt;h2 id=&#34;whats-been-going-on&#34;&gt;What’s been going on
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
@@ -306,34 +308,34 @@ Maybe Shanghai secretly relocated near the equator when nobody was looking? Temp
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:1313/en/archives/</link>
+        <link>https://undefined-chen.asia/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/archives/</guid>
+        <guid>https://undefined-chen.asia/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>http://localhost:1313/en/about/</link>
+        <link>https://undefined-chen.asia/en/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/about/</guid>
+        <guid>https://undefined-chen.asia/en/about/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:1313/en/links/</link>
+        <link>https://undefined-chen.asia/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/links/</guid>
+        <guid>https://undefined-chen.asia/en/links/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/en/search/</link>
+        <link>https://undefined-chen.asia/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/search/</guid>
+        <guid>https://undefined-chen.asia/en/search/</guid>
         <description></description>
         </item>
         
