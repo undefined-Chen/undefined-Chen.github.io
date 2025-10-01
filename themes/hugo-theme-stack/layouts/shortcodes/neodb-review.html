@@ -1,0 +1,108 @@
+{{ $dbUrl := .Get 0 }} {{ $apiUrl := "https://neodb.social/api/me/shelf/item/"
+}} {{ $itemUuid := "" }}
+{{ $authToken := "Nil_zJ2Vd7YJvzRZZk3MJr_TFZK_TlODqoz8SxBAI7Jt7D3QaRO83HRbOA" }} <!-- Replace with your actual API token -->
+
+<!-- Extract item_uuid from the URL -->
+{{ if (findRE `.*neodb\.social\/.*\/(.*)` $dbUrl) }} {{ $itemUuid = replaceRE
+`.*neodb\.social\/.*\/(.*)` "$1" $dbUrl }} {{ else }}
+<p style="text-align: center"><small>Invalid URL format.</small></p>
+{{ return }} {{ end }}
+
+<!-- Construct the API URL -->
+{{ $dbApiUrl := print $apiUrl $itemUuid }}
+
+<!-- Set up the Authorization header -->
+{{ $opts := dict "headers" (dict "Authorization" (print "Bearer " $authToken))
+}}
+
+<!-- Fetch JSON from the API using resources.GetRemote -->
+{{ $dbFetch := resources.GetRemote $dbApiUrl $opts | transform.Unmarshal }}
+
+<!-- Determine shelf status -->
+{{ $shelfType := $dbFetch.shelf_type }} {{ $category := $dbFetch.item.category
+}} {{ $action := "" }} {{ $prefix := "" }} {{ $suffix := "" }} {{ $displayText
+:= "" }}
+
+<!-- Determine the action based on category -->
+{{ if eq $category "book" }} {{ $action = "读" }} {{ else if or (eq $category
+"tv") (eq $category "movie") }} {{ $action = "看" }} {{ else if or (eq $category
+"podcast") (eq $category "album") }} {{ $action = "听" }} {{ else if eq
+$category "game" }} {{ $action = "玩" }} {{ end }}
+
+<!-- Determine the prefix and suffix based on shelf type -->
+{{ if eq $shelfType "wishlist" }} {{ $prefix = "想" }} {{ else if eq $shelfType
+"complete" }} {{ $suffix = "过" }} {{ else if eq $shelfType "progress" }} {{
+$prefix = "在" }} {{ else if eq $shelfType "dropped" }} {{ $prefix = "不" }} {{
+$suffix = "了" }} {{ end }}
+
+<!-- Combine prefix, action, and suffix -->
+{{ $displayText = print $prefix $action $suffix }}
+
+<!-- Prep for star rating -->
+{{ $fullStars := 0 }} {{ $starCount := 0 }} {{ $halfStar := 0 }} {{ $emptyStars
+:= 5 }}
+<!-- Calc star rating -->
+{{ $rating := $dbFetch.rating_grade }}
+<!-- Get the rating -->
+{{ if $rating }} {{ $starCount = div (mul $rating 5) 10 }} {{ $fullStars = int
+$starCount }}
+<!-- Full stars count -->
+
+<!-- Determine if there is a half star -->
+{{ if (mod $rating 2) }} {{ $halfStar = 1 }} {{ end }}
+
+<!-- Calculate empty stars -->
+{{ $emptyStars = sub 5 (add $fullStars $halfStar) }}
+<!-- Empty stars count -->
+{{ end }}
+
+<!-- Check if data is retrieved -->
+{{ if $dbFetch }}
+<div class="db-card">
+  <div class="db-card-subject">
+    <div class="db-card-post">
+      <img
+        src="{{ $dbFetch.item.cover_image_url }}"
+        alt="Cover Image"
+        style="max-width: 100%; height: auto"
+      />
+    </div>
+    <div class="db-card-content">
+      <div class="db-card-title">
+        <a href="{{ $dbUrl }}" class="cute" target="_blank" rel="noreferrer"
+          >{{ $dbFetch.item.title }}</a
+        >
+      </div>
+      <div class="db-card-rating">
+        {{ $dbFetch.created_time | time.Format "2006-01-02T15:04:05Z" |
+        time.Format "2006 年 01 月 02 日" }} {{ $displayText }}
+        <!-- Add the rating as stars -->
+        <div class="db-card-rating-stars">
+          <!-- Full stars -->
+          {{ if $fullStars }} {{ range $i := (seq 1 $fullStars) }}
+          <i class="fa-solid fa-star"></i>
+          {{ end }} {{ end }}
+
+          <!-- Half star -->
+          {{ if $halfStar }}
+          <i class="fa-regular fa-star-half-stroke"></i>
+          {{ end }}
+
+          <!-- Empty stars -->
+          {{ if $emptyStars }} {{ range $i := (seq 1 $emptyStars) }}
+          <i class="fa-regular fa-star"></i>
+          {{ end }} {{ end }}
+        </div>
+      </div>
+      <div class="db-card-comment">
+        {{ $dbFetch.comment_text | markdownify }}
+      </div>
+    </div>
+    <div class="db-card-cate">{{ $dbFetch.item.category }}</div>
+  </div>
+</div>
+{{ else }}
+<p style="text-align: center">
+  <small>Failed to fetch content, please check the API validity.</small>
+</p>
+{{ end }}

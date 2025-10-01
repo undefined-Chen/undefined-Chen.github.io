@@ -6,6 +6,15 @@
         <description>Recent content in Categories on undefined-Chen的blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>undefined_Chen</copyright><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>undefined_Chen</copyright>
+        <lastBuildDate>Wed, 01 Oct 2025 12:11:58 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>每月小结</title>
+        <link>http://localhost:1313/categories/%E6%AF%8F%E6%9C%88%E5%B0%8F%E7%BB%93/</link>
+        <pubDate>Wed, 01 Oct 2025 12:11:58 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E6%AF%8F%E6%9C%88%E5%B0%8F%E7%BB%93/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
