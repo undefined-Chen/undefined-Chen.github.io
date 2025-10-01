@@ -31,4 +31,16 @@
     /// Waline client configuration see: https://waline.js.org/en/reference/client.html
     Waline.init({{ $config | jsonify | safeJS }});
 </script>
+<script>
+    // 根据 URL 判断语言
+    const currentLanguage = window.location.href.includes('/en/') ? 'en' : 'zh-CN';
+    console.log('Current Language:', currentLanguage);
+
+    // 初始化 Waline
+    Waline.init({
+        ...{{ $config | jsonify | safeJS }},
+        lang: currentLanguage,
+        locale: {}
+    });
+</script>
 {{- end -}}

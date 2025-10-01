@@ -256,3 +256,11 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+frontmatter:
+  lastmod:
+    - "lastmod"    # 优先使用 frontmatter 里的 lastmod
+    - ":git"       # 如果没有 lastmod，则使用 Git 提交时间
+    - "date"       # 最后 fallback 到 date 字段
+
+enableGitInfo: true

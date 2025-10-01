@@ -5,4 +5,5 @@ menu:
         weight: -90
         params:
             icon: user
+comments: false
 ---
