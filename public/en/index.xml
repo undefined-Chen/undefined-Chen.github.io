@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>undefined-Chen&#39;s blog</title>
-        <link>https://undefined-chen.asia/en/</link>
+        <link>http://localhost:1313/en/</link>
         <description>Recent content on undefined-Chen&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>undefined_Chen</copyright><atom:link href="https://undefined-chen.asia/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>undefined_Chen</copyright><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>September 2025 Recap</title>
-        <link>https://undefined-chen.asia/en/p/september-2025-recap/</link>
+        <link>http://localhost:1313/en/p/september-2025-recap/</link>
         <pubDate>Wed, 01 Oct 2025 14:13:10 +0800</pubDate>
         
-        <guid>https://undefined-chen.asia/en/p/september-2025-recap/</guid>
+        <guid>http://localhost:1313/en/p/september-2025-recap/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Translated from Simplified Chinese.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;So, this blog’s actually been up and running for a while now, but I haven’t posted much here. Seeing all these other bloggers doing their monthly check-ins, I figured maybe that’s a nice way to kick things off for myself.&lt;/p&gt;
@@ -23,12 +23,12 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Coffee vibes!&lt;/strong&gt;&lt;/br&gt;
 Okay, so you can consider me someone who totally needs my sleep. Even back in 9th grade when I actually got enough sleep, I was already hooked on caffeine. Now I’m in high school, it’s no different—if anything, I’ve become a bit picky about my coffee (though not much, honestly—I just mean trying different instant brands, freeze-dried brews, coffee concentrates, and at most switching up my shot when I grab a Starbucks). Anyway, the idea of making my own coffee at home suddenly seemed super appealing. And since I&amp;rsquo;ve been bombarded with coffee content lately on Xiaohongshu, yeah, I got caught up in the hype and decided to start making my own too.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;p&gt;Obviously, I didn’t go all-out on equipment right away—‘cause I knew if I backed out later, I’d totally get that “mom’s sword of love hitting the wanderer’s back” moment. So, cold brew felt like the right start. Hardly any costs upfront except buying the beans, ‘cause Mom snagged a grinder from her office—nobody used it, she said. As for the final brew—went with a 1:12 coffee-to-water ratio. Mom says it’s too strong, but for me? I can chug half a liter and it still can’t save me from nodding off in chemistry. And I mean ONLY chemistry. So I guess that means the problem isn’t the coffee—it’s the subject.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;The weather…&lt;/strong&gt;&lt;/br&gt;
-Maybe Shanghai secretly relocated near the equator when nobody was looking? Temps lately aren’t dropping—they’ve actually climbed. Even though it’s already October, it’s still hitting over 30℃. My Xiaohongshu feed is full of people complaining about it.&lt;/li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The weather…&lt;/strong&gt;&lt;/br&gt;
+Maybe Shanghai secretly relocated near the equator when nobody was looking? Temps lately aren’t dropping—they’ve actually climbed. Even though it’s already October, it’s still hitting over 30℃. My Xiaohongshu feed is full of people complaining about it.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;&lt;a href=&#34;https://www.xiaohongshu.com/discovery/item/68dba992000000000703a7fe&#34;&gt;&lt;img src=&#34;https://img.undefined-chen.asia/SH_weather_2024vs2025.jpg&#34;
     alt=&#34;Shanghai temperatures: last year vs this year&#34; width=&#34;75%&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;
@@ -308,34 +308,34 @@ Maybe Shanghai secretly relocated near the equator when nobody was looking? Temp
         </item>
         <item>
         <title>Archives</title>
-        <link>https://undefined-chen.asia/en/archives/</link>
+        <link>http://localhost:1313/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/archives/</guid>
+        <guid>http://localhost:1313/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://undefined-chen.asia/en/about/</link>
+        <link>http://localhost:1313/en/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/about/</guid>
+        <guid>http://localhost:1313/en/about/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://undefined-chen.asia/en/links/</link>
+        <link>http://localhost:1313/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/links/</guid>
+        <guid>http://localhost:1313/en/links/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://undefined-chen.asia/en/search/</link>
+        <link>http://localhost:1313/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/search/</guid>
+        <guid>http://localhost:1313/en/search/</guid>
         <description></description>
         </item>
         

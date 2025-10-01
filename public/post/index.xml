@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on undefined-Chen的blog</title>
-        <link>https://undefined-chen.asia/post/</link>
+        <link>http://localhost:1313/post/</link>
         <description>Recent content in Posts on undefined-Chen的blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>undefined_Chen</copyright>
-        <lastBuildDate>Wed, 01 Oct 2025 12:11:58 +0800</lastBuildDate><atom:link href="https://undefined-chen.asia/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Oct 2025 12:11:58 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2025年9月总结</title>
-        <link>https://undefined-chen.asia/p/2025%E5%B9%B49%E6%9C%88%E6%80%BB%E7%BB%93/</link>
+        <link>http://localhost:1313/p/2025%E5%B9%B49%E6%9C%88%E6%80%BB%E7%BB%93/</link>
         <pubDate>Wed, 01 Oct 2025 12:11:58 +0800</pubDate>
         
-        <guid>https://undefined-chen.asia/p/2025%E5%B9%B49%E6%9C%88%E6%80%BB%E7%BB%93/</guid>
+        <guid>http://localhost:1313/p/2025%E5%B9%B49%E6%9C%88%E6%80%BB%E7%BB%93/</guid>
         <description>&lt;p&gt;这个博客其实已经部署很久了，但是一直没怎么发内容。看到很多别的博主都会发每月小结，我想这也许是个不错的开始。&lt;/p&gt;
 &lt;h2 id=&#34;发生了什么&#34;&gt;发生了什么
 &lt;/h2&gt;&lt;ul&gt;
