@@ -54,9 +54,13 @@ comment:
 
 ## 看/读了什么
 
-### 《匹兹堡医护前线/匹兹堡医魂/The Pitt》
+### 《匹兹堡医护前线》
 
 {{< neodb-review "https://neodb.social/tv/season/6TnqhHje7ksYwjnbSBz68Q" "近期又二刷了一遍《The Pitt》，这真的算得上本年度我最爱的美剧了（虽然今年一共没看几部）。我很喜欢这种 1 集对应 1 小时的拍法，一直在找代餐但是没有找到。">}}
+
+### 《蔚蓝天使》
+
+{{< neodb-review "https://neodb.social/movie/0GzM0AIimqohfnsC2MDN0d" "这是一部之前在翻 IMAX 小程序时看到的纪录片，一直很想看一看但没找到中文字幕。这个月决定不找了，直接对着英语字幕就开始啃起来了。虽然还没看完，但不得不说蓝天使实在艺高人胆大，编队时 18 英寸的垂直间隔在全世界应该也找不出第二个敢这么干的了。">}}
 
 ### 《Kindness Goes Unpunished》
 

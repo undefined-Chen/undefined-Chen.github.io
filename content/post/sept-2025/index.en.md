@@ -60,6 +60,10 @@ attr="</br>Source: Xiaohongshu (click image for original post)"
 
 {{< neodb-review "https://neodb.social/tv/season/6TnqhHje7ksYwjnbSBz68Q" "Gave *The Pitt* another watch recently—honestly, my absolute favorite U.S. drama so far this year (not that I’ve watched many, TBH). Love the way each episode covers one hour in real-time. Still trying to find a substitute show, but so far... no luck.">}}
 
+### *The Blue Angels*
+
+{{< neodb-review "https://neodb.social/movie/0GzM0AIimqohfnsC2MDN0d" "This is a documentary I saw a while back when I was browsing the IMAX mini-program. I'd been wanting to watch it forever but could never find Chinese subtitles. This month I just decided to stop looking and started watching it with the English subtitles. I haven't finished it yet, but I gotta say, the Blue Angels are just incredibly bold. I don't think you'll find another team in the world that dares to fly with just an 18-inch vertical separation during their formations.">}}
+
 ### *Kindness Goes Unpunished*
 
 {{< neodb-review "https://neodb.social/book/4nTDO1ApWqegLgRWFRWzvU" "Book 3 in the *Walt Longmire* series. Got into this ‘cause I’m a huge fan of the actor who plays John Price in *Call of Duty: Modern Warfare*, and ended up checking out *Longmire* (that series he’s in). I’m digging the whole Western vibe in the book. But having so little free time—only like, at best 30 minutes after finishing homework during night self-study—plus the English barrier, has made reading pretty slow. So yeah, one month later I’m only about 35% through it.">}}
