@@ -1,4 +1,5 @@
 {{ $dbUrl := .Get 0 }}
+{{ $customComment := .Get 1 }}
 {{ $apiUrl := "https://neodb.social/api/me/shelf/item/" }}
 {{ $itemUuid := "" }}
 {{ $authToken := "Nil_zJ2Vd7YJvzRZZk3MJr_TFZK_TlODqoz8SxBAI7Jt7D3QaRO83HRbOA" }} <!-- Replace with your actual API token -->
@@ -139,7 +140,11 @@ $starCount }}
         </div>
       </div>
       <div class="db-card-comment">
-        {{ $dbFetch.comment_text | markdownify }}
+        {{ if $customComment }}
+          {{ $customComment | markdownify }}
+        {{ else }}
+          {{ $dbFetch.comment_text | markdownify }}
+        {{ end }}
       </div>
     </div>
     <div class="db-card-cate">{{ $dbFetch.item.category }}</div>

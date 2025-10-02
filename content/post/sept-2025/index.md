@@ -56,18 +56,12 @@ comment:
 
 ### 《匹兹堡医护前线/匹兹堡医魂/The Pitt》
 
-{{< neodb-review "https://neodb.social/tv/season/6TnqhHje7ksYwjnbSBz68Q" >}}
-
-近期又二刷了一遍《The Pitt》，这真的算得上本年度我最爱的美剧了（虽然今年一共没看几部）。我很喜欢这种 1 集对应 1 小时的拍法，一直在找代餐但是没有找到。
+{{< neodb-review "https://neodb.social/tv/season/6TnqhHje7ksYwjnbSBz68Q" "近期又二刷了一遍《The Pitt》，这真的算得上本年度我最爱的美剧了（虽然今年一共没看几部）。我很喜欢这种 1 集对应 1 小时的拍法，一直在找代餐但是没有找到。">}}
 
 ### 《Kindness Goes Unpunished》
 
-{{< neodb-review "https://neodb.social/book/4nTDO1ApWqegLgRWFRWzvU" >}}
-
-*Walt Longmire* 系列的第三本，最初了解到这个系列是因为很喜欢《使命召唤：现代战争》里约翰·普莱斯的演员，于是找到了他演的《西镇警魂》，然后才找到 *Walt Longmire* 系列。书里对西部的描写很对我胃口。不过空闲时间实在不多，只有晚自习写完作业后能有最多半个小时的空闲，加上语言的 debuff，导致这本读了一个月才只读了 35%。
+{{< neodb-review "https://neodb.social/book/4nTDO1ApWqegLgRWFRWzvU" "*Walt Longmire* 系列的第三本，最初了解到这个系列是因为很喜欢《使命召唤：现代战争》里约翰·普莱斯的演员，于是找到了他演的《西镇警魂》，然后才找到 *Walt Longmire* 系列。书里对西部的描写很对我胃口。不过空闲时间实在不多，只有晚自习写完作业后能有最多半个小时的空闲，加上语言的 debuff，导致这本读了一个月才只读了 35%。">}}
 
 ### 《如何品尝一杯咖啡》
 
-{{< neodb-review "https://neodb.social/book/2SAxtS1B2KnETOPDdkZ8MX" >}}
-
-书接上文，我想既然开始自己做咖啡了，在品尝咖啡的时候理应要说出个一二三，恰巧又刷到了这本书的推广，于是就买来电子版开始看了。不过出于同样的原因这本书我只读完了 16%。
+{{< neodb-review "https://neodb.social/book/2SAxtS1B2KnETOPDdkZ8MX" "书接上文，我想既然开始自己做咖啡了，在品尝咖啡的时候理应要说出个一二三，恰巧又刷到了这本书的推广，于是就买来电子版开始看了。不过出于同样的原因这本书我只读完了 16%。">}}

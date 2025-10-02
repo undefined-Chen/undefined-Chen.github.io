@@ -58,18 +58,12 @@ attr="</br>Source: Xiaohongshu (click image for original post)"
 
 ### *The Pitt*
 
-{{< neodb-review "https://neodb.social/tv/season/6TnqhHje7ksYwjnbSBz68Q" >}}
-
-Gave *The Pitt* another watch recently—honestly, my absolute favorite U.S. drama so far this year (not that I’ve watched many, TBH). Love the way each episode covers one hour in real-time. Still trying to find a substitute show, but so far... no luck.
+{{< neodb-review "https://neodb.social/tv/season/6TnqhHje7ksYwjnbSBz68Q" "Gave *The Pitt* another watch recently—honestly, my absolute favorite U.S. drama so far this year (not that I’ve watched many, TBH). Love the way each episode covers one hour in real-time. Still trying to find a substitute show, but so far... no luck.">}}
 
 ### *Kindness Goes Unpunished*
 
-{{< neodb-review "https://neodb.social/book/4nTDO1ApWqegLgRWFRWzvU" >}}
-
-Book 3 in the *Walt Longmire* series. Got into this ‘cause I’m a huge fan of the actor who plays John Price in *Call of Duty: Modern Warfare*, and ended up checking out *Longmire* (that series he’s in). I’m digging the whole Western vibe in the book. But having so little free time—only like, at best 30 minutes after finishing homework during night self-study—plus the English barrier, has made reading pretty slow. So yeah, one month later I’m only about 35% through it.
+{{< neodb-review "https://neodb.social/book/4nTDO1ApWqegLgRWFRWzvU" "Book 3 in the *Walt Longmire* series. Got into this ‘cause I’m a huge fan of the actor who plays John Price in *Call of Duty: Modern Warfare*, and ended up checking out *Longmire* (that series he’s in). I’m digging the whole Western vibe in the book. But having so little free time—only like, at best 30 minutes after finishing homework during night self-study—plus the English barrier, has made reading pretty slow. So yeah, one month later I’m only about 35% through it.">}}
 
 ### *How to Taste Coffee*
 
-{{< neodb-review "https://neodb.social/book/2SAxtS1B2KnETOPDdkZ8MX" >}}
-
-Okay, since I’m getting into making my own coffee, I figured I should actually learn how to taste it for real—you know, get some lingo going. That’s when I saw an ad for this book and immediately grabbed the ebook. But for all the same reasons above, only read about 16% so far.
+{{< neodb-review "https://neodb.social/book/2SAxtS1B2KnETOPDdkZ8MX" "Okay, since I’m getting into making my own coffee, I figured I should actually learn how to taste it for real—you know, get some lingo going. That’s when I saw an ad for this book and immediately grabbed the ebook. But for all the same reasons above, only read about 16% so far.">}}
