@@ -62,7 +62,7 @@ attr="</br>Source: Xiaohongshu (click image for original post)"
 
 ### *The Blue Angels*
 
-{{< neodb-review "https://neodb.social/movie/0GzM0AIimqohfnsC2MDN0d" "This is a documentary I saw a while back when I was browsing the IMAX mini-program. I'd been wanting to watch it forever but could never find Chinese subtitles. This month I just decided to stop looking and started watching it with the English subtitles. I haven't finished it yet, but I gotta say, the Blue Angels are just incredibly bold. I don't think you'll find another team in the world that dares to fly with just an 18-inch vertical separation during their formations.">}}
+{{< neodb-review "https://neodb.social/movie/0GzM0AIimqohfnsC2MDN0d" "This is a documentary I saw a while back when I was browsing the IMAX mini-program. I’ve been dying to watch it but couldn’t find Chinese subtitles. This month I just decided to stop looking and started watching it with the English subtitles. I haven't finished it yet, but I gotta say, the Blue Angels are just incredibly bold. I don't think you'll find another team in the world that dares to fly with just an 18-inch vertical separation during their formations.">}}
 
 ### *Kindness Goes Unpunished*
 

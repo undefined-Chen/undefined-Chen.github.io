@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>undefined-Chen的blog</title>
-        <link>http://localhost:1313/</link>
+        <link>https://undefined-chen.asia/</link>
         <description>Recent content on undefined-Chen的blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>undefined_Chen</copyright><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>undefined_Chen</copyright><atom:link href="https://undefined-chen.asia/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2025年9月总结</title>
-        <link>http://localhost:1313/p/2025%E5%B9%B49%E6%9C%88%E6%80%BB%E7%BB%93/</link>
+        <link>https://undefined-chen.asia/p/2025%E5%B9%B49%E6%9C%88%E6%80%BB%E7%BB%93/</link>
         <pubDate>Wed, 01 Oct 2025 12:11:58 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/2025%E5%B9%B49%E6%9C%88%E6%80%BB%E7%BB%93/</guid>
+        <guid>https://undefined-chen.asia/p/2025%E5%B9%B49%E6%9C%88%E6%80%BB%E7%BB%93/</guid>
         <description>&lt;p&gt;这个博客其实已经部署很久了，但是一直没怎么发内容。看到很多别的博主都会发每月小结，我想这也许是个不错的开始。&lt;/p&gt;
 &lt;h2 id=&#34;发生了什么&#34;&gt;发生了什么
 &lt;/h2&gt;&lt;ul&gt;
@@ -281,7 +281,7 @@
       &lt;/div&gt;
       &lt;div class=&#34;db-card-comment&#34;&gt;
         
-          这是一部之前在翻 IMAX 小程序时看到的纪录片，一直很想看一看但没找到中文字幕，这个月决定不找了，直接对着英语字幕就开始啃起来了。虽然还没看完，但不得不说蓝天使实在艺高人胆大，编队时 18 英寸的垂直间隔在全世界应该也找不出第二个敢这么干的了。
+          这是一部之前在翻 IMAX 小程序时看到的纪录片，一直很想看一看但没找到中文字幕。这个月决定不找了，直接对着英语字幕就开始啃起来了。虽然还没看完，但不得不说蓝天使实在艺高人胆大，编队时 18 英寸的垂直间隔在全世界应该也找不出第二个敢这么干的了。
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -540,34 +540,34 @@
         </item>
         <item>
         <title>归档</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://undefined-chen.asia/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://undefined-chen.asia/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://undefined-chen.asia/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://undefined-chen.asia/%E5%85%B3%E4%BA%8E/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://undefined-chen.asia/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://undefined-chen.asia/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友链</title>
-        <link>http://localhost:1313/%E5%8F%8B%E9%93%BE/</link>
+        <link>https://undefined-chen.asia/%E5%8F%8B%E9%93%BE/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%8F%8B%E9%93%BE/</guid>
+        <guid>https://undefined-chen.asia/%E5%8F%8B%E9%93%BE/</guid>
         <description></description>
         </item>
         
