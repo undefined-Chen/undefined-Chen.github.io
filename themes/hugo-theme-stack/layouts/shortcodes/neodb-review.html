@@ -1,6 +1,35 @@
-{{ $dbUrl := .Get 0 }} {{ $apiUrl := "https://neodb.social/api/me/shelf/item/"
-}} {{ $itemUuid := "" }}
+{{ $dbUrl := .Get 0 }}
+{{ $apiUrl := "https://neodb.social/api/me/shelf/item/" }}
+{{ $itemUuid := "" }}
 {{ $authToken := "Nil_zJ2Vd7YJvzRZZk3MJr_TFZK_TlODqoz8SxBAI7Jt7D3QaRO83HRbOA" }} <!-- Replace with your actual API token -->
+
+{{/* 获取当前页面语言，优先 Site.Language.Lang，其次 Page.Language.Lang，默认为 zh-cn */}}
+{{ $lang := "" }}
+{{ if .Site.Language.Lang }}
+  {{ $lang = .Site.Language.Lang }}
+{{ else if .Page.Language.Lang }}
+  {{ $lang = .Page.Language.Lang }}
+{{ else }}
+  {{ $lang = "zh-cn" }}
+{{ end }}
+
+{{/* 定义中英文变量 */}}
+{{ $actionBook := cond (eq $lang "en") "read" "读" }}
+{{ $actionTv := cond (eq $lang "en") "watch" "看" }}
+{{ $actionMovie := cond (eq $lang "en") "watch" "看" }}
+{{ $actionPodcast := cond (eq $lang "en") "listen" "听" }}
+{{ $actionAlbum := cond (eq $lang "en") "listen" "听" }}
+{{ $actionGame := cond (eq $lang "en") "play" "玩" }}
+
+{{ $prefixWishlist := cond (eq $lang "en") "Want to " "想" }}
+{{ $prefixComplete := cond (eq $lang "en") "" "" }}
+{{ $prefixProgress := cond (eq $lang "en") "Currently " "在" }}
+{{ $prefixDropped := cond (eq $lang "en") "Stopped " "不" }}
+
+{{ $suffixComplete := cond (eq $lang "en") "ed" "过" }}
+{{ $suffixDropped := cond (eq $lang "en") "" "了" }}
+
+{{ $dateFormat := cond (eq $lang "en") "Jan 02, 2006" "2006 年 01 月 02 日" }}
 
 <!-- Extract item_uuid from the URL -->
 {{ if (findRE `.*neodb\.social\/.*\/(.*)` $dbUrl) }} {{ $itemUuid = replaceRE
@@ -19,23 +48,39 @@
 {{ $dbFetch := resources.GetRemote $dbApiUrl $opts | transform.Unmarshal }}
 
 <!-- Determine shelf status -->
-{{ $shelfType := $dbFetch.shelf_type }} {{ $category := $dbFetch.item.category
-}} {{ $action := "" }} {{ $prefix := "" }} {{ $suffix := "" }} {{ $displayText
-:= "" }}
+{{ $shelfType := $dbFetch.shelf_type }}
+{{ $category := $dbFetch.item.category }}
+{{ $action := "" }}
+{{ $prefix := "" }}
+{{ $suffix := "" }}
+{{ $displayText := "" }}
 
-<!-- Determine the action based on category -->
-{{ if eq $category "book" }} {{ $action = "读" }} {{ else if or (eq $category
-"tv") (eq $category "movie") }} {{ $action = "看" }} {{ else if or (eq $category
-"podcast") (eq $category "album") }} {{ $action = "听" }} {{ else if eq
-$category "game" }} {{ $action = "玩" }} {{ end }}
+<!-- 动作选择 -->
+{{ if eq $category "book" }}
+  {{ $action = $actionBook }}
+{{ else if or (eq $category "tv") (eq $category "movie") }}
+  {{ $action = $actionTv }}
+{{ else if or (eq $category "podcast") (eq $category "album") }}
+  {{ $action = $actionPodcast }}
+{{ else if eq $category "game" }}
+  {{ $action = $actionGame }}
+{{ end }}
 
-<!-- Determine the prefix and suffix based on shelf type -->
-{{ if eq $shelfType "wishlist" }} {{ $prefix = "想" }} {{ else if eq $shelfType
-"complete" }} {{ $suffix = "过" }} {{ else if eq $shelfType "progress" }} {{
-$prefix = "在" }} {{ else if eq $shelfType "dropped" }} {{ $prefix = "不" }} {{
-$suffix = "了" }} {{ end }}
+<!-- 前缀/后缀选择 -->
+{{ if eq $shelfType "wishlist" }}
+  {{ $prefix = $prefixWishlist }}
+  {{ $suffix = "" }}
+{{ else if eq $shelfType "complete" }}
+  {{ $prefix = $prefixComplete }}
+  {{ $suffix = $suffixComplete }}
+{{ else if eq $shelfType "progress" }}
+  {{ $prefix = $prefixProgress }}
+  {{ $suffix = "" }}
+{{ else if eq $shelfType "dropped" }}
+  {{ $prefix = $prefixDropped }}
+  {{ $suffix = $suffixDropped }}
+{{ end }}
 
-<!-- Combine prefix, action, and suffix -->
 {{ $displayText = print $prefix $action $suffix }}
 
 <!-- Prep for star rating -->
@@ -74,8 +119,7 @@ $starCount }}
         >
       </div>
       <div class="db-card-rating">
-        {{ $dbFetch.created_time | time.Format "2006-01-02T15:04:05Z" |
-        time.Format "2006 年 01 月 02 日" }} {{ $displayText }}
+        {{ $dbFetch.created_time | time.Format "2006-01-02T15:04:05Z" | time.Format $dateFormat }} {{ $displayText }}
         <!-- Add the rating as stars -->
         <div class="db-card-rating-stars">
           <!-- Full stars -->
