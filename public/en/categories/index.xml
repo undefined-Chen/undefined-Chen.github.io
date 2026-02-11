@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on undefined-Chen&#39;s blog</title>
-        <link>http://localhost:1313/en/categories/</link>
+        <link>https://undefined-chen.asia/en/categories/</link>
         <description>Recent content in Categories on undefined-Chen&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>undefined_Chen</copyright>
-        <lastBuildDate>Wed, 01 Oct 2025 14:13:10 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Feb 2026 16:11:35 +0800</lastBuildDate><atom:link href="https://undefined-chen.asia/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Random Thoughts</title>
+        <link>https://undefined-chen.asia/en/categories/random-thoughts/</link>
+        <pubDate>Wed, 11 Feb 2026 16:11:35 +0800</pubDate>
+        
+        <guid>https://undefined-chen.asia/en/categories/random-thoughts/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Monthly Update</title>
-        <link>http://localhost:1313/en/categories/monthly-update/</link>
+        <link>https://undefined-chen.asia/en/categories/monthly-update/</link>
         <pubDate>Wed, 01 Oct 2025 14:13:10 +0800</pubDate>
         
-        <guid>http://localhost:1313/en/categories/monthly-update/</guid>
+        <guid>https://undefined-chen.asia/en/categories/monthly-update/</guid>
         <description></description>
         </item>
         

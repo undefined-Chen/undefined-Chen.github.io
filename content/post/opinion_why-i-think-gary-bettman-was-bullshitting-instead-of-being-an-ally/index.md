@@ -8,13 +8,13 @@ author: ""
 authorLink: ""
 license: ""
 
-tags: [""]
-categories: [""]
+tags: ["体育","NHL"]
+categories: ["杂谈"]
 
 featuredImage: ""
 featuredImagePreview: ""
 
-summary: ""
+description: "在看到加里·贝特曼的 The Athletic 采访后的一些想法。"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -40,7 +40,7 @@ comment:
 
 {{< x user="NHLBruins" id="2003633301911998848" >}}
 
-而后，NHL 总裁加里·贝特曼在[1月16日 *The Atlantic* 的采访](https://www.nytimes.com/athletic/6975677/2026/01/15/heated-rivalry-nhl-gary-bettman-hockey/)中称其在一晚刷完了该剧的全部六集，他还称“联盟已经‘有意义地接纳了’ LGBTQ+ 群体”。
+而后，NHL 总裁加里·贝特曼在[1月16日 *The Athletic* 的采访](https://www.nytimes.com/athletic/6975677/2026/01/15/heated-rivalry-nhl-gary-bettman-hockey/)中称其在一晚刷完了该剧的全部六集，他还称“联盟已经‘有意义地接纳了’ LGBTQ+ 群体”。
 
 [*The Hollywood Reporter* 的报道](https://www.hollywoodreporter.com/tv/tv-features/heated-rivalry-hbo-max-gay-drama-hockey-players-hit-women-1236456083/)称 NHL “一直试图通过举办 LGBTQ 主题活动和主题之夜来扩大对同性恋体育迷吸引力”。然而，只要我们把时间拨回两年，我们不难发现这样的表述是错误且荒谬的。
 
@@ -56,7 +56,7 @@ comment:
 > 
 > _"我认为这是一个精彩的故事，"贝特曼说。"内容，特别是对年轻人来说，可能有点火辣。所以你必须平衡好如何接纳（这部剧）。"_
 
-贝特曼使用 “spicy” 一词来描述了这部剧集的内容。诚然，剧中出现了大量限制级场景。然而，作为驱动剧情的**核心矛盾**，贝特曼**完全跳过了**剧中的出现的关于**自我认同和职业生涯的挣扎**，这部分内容揭露了现役球员出柜所面临的困境，若联盟真的“‘有意义地接纳了’LGBTQ+群体”，这也正是他们需要解决的问题。此外，作为被认为是世界上最暴力的非格斗项目之一的联赛总裁，贝特曼在说出“对年轻人来说，可能有点火辣”“你必须平衡好如何接纳”时，似乎并**不认为**冰场上的**垃圾话**和**暴力**对于年轻人而言是需要“平衡好如何接纳”,需要保护的，但当屏幕上出现了**两个男人**牵手、接吻、谈恋爱时，贝特曼**突然觉得**年轻人需要被保护，需要“平衡好如何接纳”了。当贝特曼将一部作品的意义窄化到只剩下性时（尽管性确实存在），他所谓的“我们很包容”的面具也就自然而然地脱落了。[据 *Harvard Independent* 报道](https://harvardindependent.com/melting-the-ice-heated-rivalry-and-the-nhl/)，冰球赛事的门票关注与销售确实因《巅峰对决》出现了显著的增长。即便在如此大的流量红利下，贝特曼的用词仍然如此暧昧，这所传递的信号已经相当明显了：“我要（LGBTQ+ 群体）带来的流量，但我拒绝承担（LGBTQ+ 平权的）社会责任。”
+贝特曼使用 “spicy” 一词来描述了这部剧集的内容。诚然，剧中出现了大量限制级场景。然而，作为驱动剧情的**核心矛盾**，贝特曼**完全跳过了**剧中的出现的关于**自我认同和职业生涯的挣扎**，这部分内容揭露了现役球员出柜所面临的困境，若联盟真的“‘有意义地接纳了’LGBTQ+群体”，这也正是他们需要解决的问题。此外，作为被认为是世界上最暴力的非格斗项目之一的联赛总裁，贝特曼在说出“对年轻人来说，可能有点火辣”“你必须平衡好如何接纳”时，似乎并**不认为**冰场上的**垃圾话**和**暴力**对于年轻人而言是需要“平衡好如何接纳”，需要保护的，但当屏幕上出现了**两个男人**牵手、接吻、谈恋爱时，贝特曼**突然觉得**年轻人需要被保护，需要“平衡好如何接纳”了。当贝特曼将一部作品的意义窄化到只剩下性时（尽管性确实存在），他所谓的“我们很包容”的面具也就自然而然地脱落了。[据 *Harvard Independent* 报道](https://harvardindependent.com/melting-the-ice-heated-rivalry-and-the-nhl/)，冰球赛事的门票关注与销售确实因《巅峰对决》出现了显著的增长。即便在如此大的流量红利下，贝特曼的用词仍然如此暧昧，这所传递的信号已经相当明显了：“我要（LGBTQ+ 群体）带来的流量，但我拒绝承担（LGBTQ+ 平权的）社会责任。”
 
 尽管联盟禁止了包括"冰球抗击癌症"公益活动在内的所有主题球衣，但这一禁令事实上是因彩虹主题球衣而起的。在宣布彩虹胶带禁令的前一个赛季，有多名球员因所在球队穿着 Pride Night 主题球衣而拒绝参加热身赛。贝特曼对此禁令给出的解释是：
 
@@ -66,7 +66,7 @@ comment:
 
 贝特曼将社会议题定义为“干扰”，并且认为“不如直接表示‘我们不要触碰这个领域’”，联盟为了避免那少数人感到不适而“因噎废食”，直接放弃其作为有社会影响力的企业应尽的社会责任。作为北美第四大体育联盟，NHL 所追求的不应仅是“不犯错”，而是“负责的影响力”，在承认分歧存在的前提下，依然坚持推广积极的价值观。它们应当做的是建立桥梁，而非筑起围墙。因此无论贝特曼在口头上怎么支持这些社会议题，只要联盟还在通过“捂嘴”向社会传递“我 NHL 不在乎也不支持”的信号，NHL 就永远会被认为是最保守的那个。相比之下，北美四大联盟的另外三大在社会议题上的处理就显得十分高明了，例如 [NFL 的 My Cause My Cleats](https://mycausemycleats.org/)，[NBA 在 Black Lives Matter 事件中的举动](https://www.espn.com/nba/story/_/id/29555143/nba-restart-how-nba-bubble-become-platform-social-justice)，以及 [MLB 搬迁全明星赛以捍卫价值观](https://www.cnbc.com/2021/04/06/mlb-will-move-all-star-game-to-denver-after-pulling-out-of-atlanta-over-voting-law.html)。相比于 NHL 的捂嘴，另外三大的高明之处在于：他们愿意建立一个平台让大家安全地表达，或者为了更重要的原则承担被骂的风险。
 
-在 *The Atlantic* 的采访后半段，贝特曼甚至“演都不演了”。他声称：
+在 *The Athletic* 的采访后半段，贝特曼甚至“演都不演了”。他声称：
 
 > It wasn’t about Pride jerseys or Pride tape. It was about the fact of bringing things into the game that might not be embraced by the players wearing the jerseys. If some players don’t embrace the cause, whatever it is, then you create a distraction that doesn’t fulfill the purpose.
 >
