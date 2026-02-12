@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>undefined-Chen&#39;s blog</title>
-        <link>https://undefined-chen.asia/en/</link>
+        <link>http://localhost:1313/en/</link>
         <description>Recent content on undefined-Chen&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>undefined_Chen</copyright><atom:link href="https://undefined-chen.asia/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>undefined_Chen</copyright><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Opinion: Why Gary Bettman&#39;s “I’ve watched all six episodes. I binged it in one night” and “the league had already ‘meaningfully embraced’ the LGBTQ&#43; community” are Pure Bullshit?</title>
-        <link>https://undefined-chen.asia/en/p/opinion-why-gary-bettmans-ive-watched-all-six-episodes.-i-binged-it-in-one-night-and-the-league-had-already-meaningfully-embraced-the-lgbtq-community-are-pure-bullshit/</link>
+        <link>http://localhost:1313/en/p/opinion-why-gary-bettmans-ive-watched-all-six-episodes.-i-binged-it-in-one-night-and-the-league-had-already-meaningfully-embraced-the-lgbtq-community-are-pure-bullshit/</link>
         <pubDate>Wed, 11 Feb 2026 16:11:35 +0800</pubDate>
         
-        <guid>https://undefined-chen.asia/en/p/opinion-why-gary-bettmans-ive-watched-all-six-episodes.-i-binged-it-in-one-night-and-the-league-had-already-meaningfully-embraced-the-lgbtq-community-are-pure-bullshit/</guid>
+        <guid>http://localhost:1313/en/p/opinion-why-gary-bettmans-ive-watched-all-six-episodes.-i-binged-it-in-one-night-and-the-league-had-already-meaningfully-embraced-the-lgbtq-community-are-pure-bullshit/</guid>
         <description>
 &lt;details&gt;
   &lt;summary&gt;💡Tips&lt;/summary&gt;
@@ -88,10 +88,10 @@
         </item>
         <item>
         <title>September 2025 Recap</title>
-        <link>https://undefined-chen.asia/en/p/september-2025-recap/</link>
+        <link>http://localhost:1313/en/p/september-2025-recap/</link>
         <pubDate>Wed, 01 Oct 2025 14:13:10 +0800</pubDate>
         
-        <guid>https://undefined-chen.asia/en/p/september-2025-recap/</guid>
+        <guid>http://localhost:1313/en/p/september-2025-recap/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Translated from Simplified Chinese.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;So, this blog’s actually been up and running for a while now, but I haven’t posted much here. Seeing all these other bloggers doing their monthly check-ins, I figured maybe that’s a nice way to kick things off for myself.&lt;/p&gt;
@@ -622,34 +622,34 @@ Maybe Shanghai secretly relocated near the equator when nobody was looking? Temp
         </item>
         <item>
         <title>Archives</title>
-        <link>https://undefined-chen.asia/en/archives/</link>
+        <link>http://localhost:1313/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/archives/</guid>
+        <guid>http://localhost:1313/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://undefined-chen.asia/en/about/</link>
+        <link>http://localhost:1313/en/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/about/</guid>
+        <guid>http://localhost:1313/en/about/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://undefined-chen.asia/en/links/</link>
+        <link>http://localhost:1313/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/links/</guid>
+        <guid>http://localhost:1313/en/links/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://undefined-chen.asia/en/search/</link>
+        <link>http://localhost:1313/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://undefined-chen.asia/en/search/</guid>
+        <guid>http://localhost:1313/en/search/</guid>
         <description></description>
         </item>
         
