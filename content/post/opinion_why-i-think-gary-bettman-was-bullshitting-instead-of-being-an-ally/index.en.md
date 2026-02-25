@@ -6,7 +6,8 @@ lastmod: 2026-02-11T16:11:35+08:00
 draft: false
 author: ""
 authorLink: ""
-license: ""
+license: >-
+  This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"> for non-commercial uses. For commercial uses, a separate license applies: <a href="https://corpaccountabilitylab.org/cccal-license">CC+CAL Commercial Use License Agreement (Version 1.1)</a>.
 
 tags: ["Sports","NHL"]
 categories: ["Random Thoughts"]

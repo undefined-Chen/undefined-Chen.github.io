@@ -6,7 +6,7 @@ lastmod: 2025-10-01T14:13:10+08:00
 draft: false
 author: ""
 authorLink: ""
-license: ""
+license: "All rights reserved."
 
 tags: [""]
 categories: ["Monthly Update"]

@@ -6,7 +6,7 @@ lastmod: 2025-10-01T12:11:58+08:00
 draft: false
 author: ""
 authorLink: ""
-license: ""
+license: "All rights reserved."
 
 tags: [""]
 categories: ["每月小结"]

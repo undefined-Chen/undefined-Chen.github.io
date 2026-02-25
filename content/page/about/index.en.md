@@ -6,4 +6,5 @@ menu:
         params:
             icon: user
 comments: false
+license: "All rights reserved."
 ---

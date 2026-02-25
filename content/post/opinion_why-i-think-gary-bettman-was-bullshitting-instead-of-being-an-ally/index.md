@@ -6,7 +6,8 @@ lastmod: 2026-02-10T19:20:34+08:00
 draft: false
 author: ""
 authorLink: ""
-license: ""
+license: >-
+  本文非商业使用采用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"> 许可；商业用途不适用该 CC 许可，须遵守单独的 <a href="https://corpaccountabilitylab.org/cccal-license">CC+CAL 商业使用许可协议（Version 1.1）</a>。
 
 tags: ["体育","NHL"]
 categories: ["杂谈"]
