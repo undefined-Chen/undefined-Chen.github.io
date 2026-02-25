@@ -213,7 +213,7 @@ menu:
     social:
         - identifier: email
           name: Email
-          url: mailto:Ryan%20Chen<chnryan.chen@mail.com>
+          url: mailto:Ryan%20Chen<chnryan.chen@gmail.com>
           params:
               icon: mail
 
