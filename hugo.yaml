@@ -208,7 +208,14 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+    main: 
+        - identifier: home
+          name: 爱叶TV
+          url: https://ileafstv.icu/
+          weight: -1
+          params:
+            icon: TOR
+            newTab: true
 
     social:
         - identifier: email

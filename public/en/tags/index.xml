@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on undefined-Chen&#39;s blog</title>
-        <link>https://undefined-chen.asia/en/tags/</link>
+        <link>http://localhost:1313/en/tags/</link>
         <description>Recent content in Tags on undefined-Chen&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>undefined_Chen</copyright>
-        <lastBuildDate>Wed, 11 Feb 2026 16:11:35 +0800</lastBuildDate><atom:link href="https://undefined-chen.asia/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Feb 2026 16:11:35 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>NHL</title>
-        <link>https://undefined-chen.asia/en/tags/nhl/</link>
+        <link>http://localhost:1313/en/tags/nhl/</link>
         <pubDate>Wed, 11 Feb 2026 16:11:35 +0800</pubDate>
         
-        <guid>https://undefined-chen.asia/en/tags/nhl/</guid>
+        <guid>http://localhost:1313/en/tags/nhl/</guid>
         <description></description>
         </item>
         <item>
         <title>Sports</title>
-        <link>https://undefined-chen.asia/en/tags/sports/</link>
+        <link>http://localhost:1313/en/tags/sports/</link>
         <pubDate>Wed, 11 Feb 2026 16:11:35 +0800</pubDate>
         
-        <guid>https://undefined-chen.asia/en/tags/sports/</guid>
+        <guid>http://localhost:1313/en/tags/sports/</guid>
         <description></description>
         </item>
         
