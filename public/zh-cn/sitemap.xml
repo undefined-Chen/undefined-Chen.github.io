@@ -15,6 +15,9 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/lgbt/</loc>
+    <lastmod>2026-02-10T19:20:34+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/nhl/</loc>
     <lastmod>2026-02-10T19:20:34+08:00</lastmod>
     <xhtml:link
