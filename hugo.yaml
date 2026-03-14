@@ -27,6 +27,21 @@ languages:
         params:
             sidebar:
                 subtitle: Aim high, Flight-Fight-Win.
+        menu:
+            main: 
+                - identifier: home
+                  name: 爱叶TV
+                  url: https://ileafstv.icu/
+                  weight: -1
+                  params:
+                    icon: TOR
+                    newTab: true
+            social:
+                - identifier: email
+                  name: Email
+                  url: mailto:Ryan%20Chen<chnryan.chen@gmail.com>
+                  params:
+                    icon: mail
 
 services:
     # Change it to your Disqus shortname before using
@@ -208,15 +223,6 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: 
-        - identifier: home
-          name: 爱叶TV
-          url: https://ileafstv.icu/
-          weight: -1
-          params:
-            icon: TOR
-            newTab: true
-
     social:
         - identifier: email
           name: Email
@@ -267,8 +273,8 @@ markup:
 
 frontmatter:
   lastmod:
-    - "lastmod"    # 优先使用 frontmatter 里的 lastmod
     - ":git"       # 如果没有 lastmod，则使用 Git 提交时间
+    - "lastmod"    # 优先使用 frontmatter 里的 lastmod
     - "date"       # 最后 fallback 到 date 字段
 
 enableGitInfo: true
